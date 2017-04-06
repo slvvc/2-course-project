@@ -1,0 +1,961 @@
+{
+ "geo": {
+  "Iceland": {
+   "langs": [
+    [
+     "0",
+     1
+    ]
+   ]
+  },
+  "Belgium": {
+   "langs": [
+    [
+     "1",
+     1
+    ],
+    [
+     "2",
+     1
+    ],
+    [
+     "3",
+     1
+    ]
+   ]
+  },
+  "Macedonia": {
+   "langs": [
+    [
+     "4",
+     1
+    ],
+    [
+     "5",
+     0
+    ],
+    [
+     "6",
+     0
+    ],
+    [
+     "7",
+     0
+    ]
+   ]
+  },
+  "Russia": {
+   "langs": [
+    [
+     "8",
+     1
+    ]
+   ]
+  },
+  "Norway": {
+   "langs": [
+    [
+     "9",
+     1
+    ]
+   ]
+  },
+  "Germany": {
+   "langs": [
+    [
+     "1",
+     1
+    ]
+   ]
+  },
+  "Ireland": {
+   "langs": [
+    [
+     "10",
+     1
+    ],
+    [
+     "11",
+     1
+    ]
+   ]
+  },
+  "Greece": {
+   "langs": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  "Albania": {
+   "langs": [
+    [
+     "5",
+     1
+    ]
+   ]
+  },
+  "Lithuania": {
+   "langs": [
+    [
+     "13",
+     1
+    ]
+   ]
+  },
+  "Bosnia and Herz.": {
+   "langs": [
+    [
+     "14",
+     0
+    ],
+    [
+     "15",
+     0
+    ],
+    [
+     "7",
+     0
+    ]
+   ]
+  },
+  "Montenegro": {
+   "langs": [
+    [
+     "16",
+     1
+    ],
+    [
+     "7",
+     1
+    ],
+    [
+     "14",
+     1
+    ],
+    [
+     "5",
+     1
+    ],
+    [
+     "15",
+     1
+    ]
+   ]
+  },
+  "Finland": {
+   "langs": [
+    [
+     "17",
+     1
+    ],
+    [
+     "18",
+     1
+    ]
+   ]
+  },
+  "Hungary": {
+   "langs": [
+    [
+     "19",
+     1
+    ]
+   ]
+  },
+  "Romania": {
+   "langs": [
+    [
+     "20",
+     1
+    ],
+    [
+     "8",
+     0
+    ]
+   ]
+  },
+  "Slovenia": {
+   "langs": [
+    [
+     "21",
+     1
+    ]
+   ]
+  },
+  "Switzerland": {
+   "langs": [
+    [
+     "1",
+     1
+    ],
+    [
+     "3",
+     1
+    ],
+    [
+     "22",
+     1
+    ],
+    [
+     "23",
+     1
+    ]
+   ]
+  },
+  "Cyprus": {
+   "langs": [
+    [
+     "12",
+     1
+    ],
+    [
+     "6",
+     1
+    ]
+   ]
+  },
+  "Denmark": {
+   "langs": [
+    [
+     "24",
+     1
+    ]
+   ]
+  },
+  "Ukraine": {
+   "langs": [
+    [
+     "25",
+     1
+    ],
+    [
+     "8",
+     0
+    ]
+   ]
+  },
+  "Slovakia": {
+   "langs": [
+    [
+     "26",
+     1
+    ]
+   ]
+  },
+  "Croatia": {
+   "langs": [
+    [
+     "15",
+     1
+    ]
+   ]
+  },
+  "Armenia": {
+   "langs": [
+    [
+     "27",
+     1
+    ],
+    [
+     "28",
+     0
+    ],
+    [
+     "12",
+     0
+    ],
+    [
+     "29",
+     0
+    ],
+    [
+     "8",
+     0
+    ]
+   ]
+  },
+  "United Kingdom": {
+   "langs": [
+    [
+     "11",
+     1
+    ]
+   ]
+  },
+  "Moldova": {
+   "langs": [
+    [
+     "20",
+     1
+    ],
+    [
+     "30",
+     0
+    ],
+    [
+     "8",
+     0
+    ],
+    [
+     "25",
+     0
+    ]
+   ]
+  },
+  "Luxembourg": {
+   "langs": [
+    [
+     "3",
+     1
+    ],
+    [
+     "1",
+     1
+    ],
+    [
+     "31",
+     1
+    ]
+   ]
+  },
+  "Austria": {
+   "langs": [
+    [
+     "1",
+     1
+    ],
+    [
+     "19",
+     0
+    ],
+    [
+     "32",
+     0
+    ]
+   ]
+  },
+  "French": {
+   "langs": [
+    [
+     "3",
+     1
+    ]
+   ]
+  },
+  "Spain": {
+   "langs": [
+    [
+     "33",
+     1
+    ]
+   ]
+  },
+  "Chech Rep.": {
+   "langs": [
+    [
+     "34",
+     1
+    ]
+   ]
+  },
+  "Latvia": {
+   "langs": [
+    [
+     "35",
+     1
+    ]
+   ]
+  },
+  "Sweden": {
+   "langs": [
+    [
+     "18",
+     1
+    ]
+   ]
+  },
+  "Belarus": {
+   "langs": [
+    [
+     "36",
+     1
+    ],
+    [
+     "8",
+     1
+    ]
+   ]
+  },
+  "Estonia": {
+   "langs": [
+    [
+     "37",
+     1
+    ]
+   ]
+  },
+  "Bulgaria": {
+   "langs": [
+    [
+     "38",
+     1
+    ]
+   ]
+  },
+  "Netherlands": {
+   "langs": [
+    [
+     "2",
+     1
+    ],
+    [
+     "39",
+     0
+    ],
+    [
+     "11",
+     0
+    ]
+   ]
+  },
+  "Poland": {
+   "langs": [
+    [
+     "40",
+     1
+    ]
+   ]
+  },
+  "Italy": {
+   "langs": [
+    [
+     "22",
+     1
+    ]
+   ]
+  },
+  "Serbia": {
+   "langs": [
+    [
+     "7",
+     1
+    ]
+   ]
+  },
+  "Azerbaijan": {
+   "langs": [
+    [
+     "41",
+     1
+    ],
+    [
+     "27",
+     0
+    ]
+   ]
+  }
+ },
+ "ids": {
+  "2": {
+   "geo": [
+    "Belgium",
+    "Netherlands"
+   ],
+   "name": "dutch",
+   "hier": [
+    "indo-euro",
+    "dutch"
+   ]
+  },
+  "29": {
+   "geo": [
+    "Armenia"
+   ],
+   "name": "kurdish",
+   "hier": [
+    "indo-euro",
+    "kurdish"
+   ]
+  },
+  "9": {
+   "geo": [
+    "Norway"
+   ],
+   "name": "norweigan",
+   "hier": [
+    "indo-euro",
+    "norweigan"
+   ]
+  },
+  "19": {
+   "geo": [
+    "Hungary",
+    "Austria"
+   ],
+   "name": "hungarian",
+   "hier": [
+    "indo-euro",
+    "hungarian"
+   ]
+  },
+  "31": {
+   "geo": [
+    "Luxembourg"
+   ],
+   "name": "luxembourgish",
+   "hier": [
+    "indo-euro",
+    "luxembourgish"
+   ]
+  },
+  "17": {
+   "geo": [
+    "Finland"
+   ],
+   "name": "finnish",
+   "hier": [
+    "indo-euro",
+    "finnish"
+   ]
+  },
+  "18": {
+   "geo": [
+    "Finland",
+    "Sweden"
+   ],
+   "name": "swedish",
+   "hier": [
+    "indo-euro",
+    "swedish"
+   ]
+  },
+  "5": {
+   "geo": [
+    "Macedonia",
+    "Albania",
+    "Montenegro"
+   ],
+   "name": "albanian",
+   "hier": [
+    "indo-euro",
+    "albanian"
+   ]
+  },
+  "8": {
+   "geo": [
+    "Russia",
+    "Romania",
+    "Ukraine",
+    "Armenia",
+    "Moldova",
+    "Belarus"
+   ],
+   "name": "russian",
+   "hier": [
+    "indo-euro",
+    "russian"
+   ]
+  },
+  "26": {
+   "geo": [
+    "Slovakia"
+   ],
+   "name": "slovak",
+   "hier": [
+    "indo-euro",
+    "slovak"
+   ]
+  },
+  "27": {
+   "geo": [
+    "Armenia",
+    "Azerbaijan"
+   ],
+   "name": "armenian",
+   "hier": [
+    "indo-euro",
+    "armenian"
+   ]
+  },
+  "39": {
+   "geo": [
+    "Netherlands"
+   ],
+   "name": "frisian",
+   "hier": [
+    "indo-euro",
+    "frisian"
+   ]
+  },
+  "36": {
+   "geo": [
+    "Belarus"
+   ],
+   "name": "belarussian",
+   "hier": [
+    "indo-euro",
+    "belarussian"
+   ]
+  },
+  "21": {
+   "geo": [
+    "Slovenia"
+   ],
+   "name": "slovence",
+   "hier": [
+    "indo-euro",
+    "slovence"
+   ]
+  },
+  "10": {
+   "geo": [
+    "Ireland"
+   ],
+   "name": "irish",
+   "hier": [
+    "indo-euro",
+    "irish"
+   ]
+  },
+  "4": {
+   "geo": [
+    "Macedonia"
+   ],
+   "name": "macedonian",
+   "hier": [
+    "indo-euro",
+    "macedonian"
+   ]
+  },
+  "7": {
+   "geo": [
+    "Macedonia",
+    "Bosnia and Herz.",
+    "Montenegro",
+    "Serbia"
+   ],
+   "name": "serbian",
+   "hier": [
+    "indo-euro",
+    "serbian"
+   ]
+  },
+  "14": {
+   "geo": [
+    "Bosnia and Herz.",
+    "Montenegro"
+   ],
+   "name": "bosnian",
+   "hier": [
+    "indo-euro",
+    "bosnian"
+   ]
+  },
+  "3": {
+   "geo": [
+    "Belgium",
+    "Switzerland",
+    "Luxembourg",
+    "French"
+   ],
+   "name": "french",
+   "hier": [
+    "indo-euro",
+    "french"
+   ]
+  },
+  "40": {
+   "geo": [
+    "Poland"
+   ],
+   "name": "polish",
+   "hier": [
+    "indo-euro",
+    "polish"
+   ]
+  },
+  "12": {
+   "geo": [
+    "Greece",
+    "Cyprus",
+    "Armenia"
+   ],
+   "name": "greek",
+   "hier": [
+    "indo-euro",
+    "greek"
+   ]
+  },
+  "34": {
+   "geo": [
+    "Chech Rep."
+   ],
+   "name": "chech",
+   "hier": [
+    "indo-euro",
+    "chech"
+   ]
+  },
+  "11": {
+   "geo": [
+    "Ireland",
+    "United Kingdom",
+    "Netherlands"
+   ],
+   "name": "english",
+   "hier": [
+    "indo-euro",
+    "english"
+   ]
+  },
+  "0": {
+   "geo": [
+    "Iceland"
+   ],
+   "name": "icelandic",
+   "hier": [
+    "indo-euro",
+    "icelandic"
+   ]
+  },
+  "20": {
+   "geo": [
+    "Romania",
+    "Moldova"
+   ],
+   "name": "romanian",
+   "hier": [
+    "indo-euro",
+    "romanian"
+   ]
+  },
+  "22": {
+   "geo": [
+    "Switzerland",
+    "Italy"
+   ],
+   "name": "italian",
+   "hier": [
+    "indo-euro",
+    "italian"
+   ]
+  },
+  "25": {
+   "geo": [
+    "Ukraine",
+    "Moldova"
+   ],
+   "name": "ukranian",
+   "hier": [
+    "indo-euro",
+    "ukranian"
+   ]
+  },
+  "35": {
+   "geo": [
+    "Latvia"
+   ],
+   "name": "latvian",
+   "hier": [
+    "indo-euro",
+    "latvian"
+   ]
+  },
+  "24": {
+   "geo": [
+    "Denmark"
+   ],
+   "name": "danish",
+   "hier": [
+    "indo-euro",
+    "danish"
+   ]
+  },
+  "6": {
+   "geo": [
+    "Macedonia",
+    "Cyprus"
+   ],
+   "name": "turkish",
+   "hier": [
+    "indo-euro",
+    "turkish"
+   ]
+  },
+  "13": {
+   "geo": [
+    "Lithuania"
+   ],
+   "name": "lithuanian",
+   "hier": [
+    "indo-euro",
+    "lithuanian"
+   ]
+  },
+  "33": {
+   "geo": [
+    "Spain"
+   ],
+   "name": "spanish",
+   "hier": [
+    "indo-euro",
+    "spanish"
+   ]
+  },
+  "23": {
+   "geo": [
+    "Switzerland"
+   ],
+   "name": "romansh",
+   "hier": [
+    "indo-euro",
+    "romansh"
+   ]
+  },
+  "41": {
+   "geo": [
+    "Azerbaijan"
+   ],
+   "name": "azerbaijani",
+   "hier": [
+    "indo-euro",
+    "azerbaijani"
+   ]
+  },
+  "15": {
+   "geo": [
+    "Bosnia and Herz.",
+    "Montenegro",
+    "Croatia"
+   ],
+   "name": "croatian",
+   "hier": [
+    "indo-euro",
+    "croatian"
+   ]
+  },
+  "37": {
+   "geo": [
+    "Estonia"
+   ],
+   "name": "estonian",
+   "hier": [
+    "indo-euro",
+    "estonian"
+   ]
+  },
+  "38": {
+   "geo": [
+    "Bulgaria"
+   ],
+   "name": "bulgarian",
+   "hier": [
+    "indo-euro",
+    "bulgarian"
+   ]
+  },
+  "32": {
+   "geo": [
+    "Austria"
+   ],
+   "name": "slovenian",
+   "hier": [
+    "indo-euro",
+    "slovenian"
+   ]
+  },
+  "30": {
+   "geo": [
+    "Moldova"
+   ],
+   "name": "gagauz",
+   "hier": [
+    "indo-euro",
+    "gagauz"
+   ]
+  },
+  "28": {
+   "geo": [
+    "Armenia"
+   ],
+   "name": "assyrian",
+   "hier": [
+    "indo-euro",
+    "assyrian"
+   ]
+  },
+  "16": {
+   "geo": [
+    "Montenegro"
+   ],
+   "name": "montenegrin",
+   "hier": [
+    "indo-euro",
+    "montenegrin"
+   ]
+  },
+  "1": {
+   "geo": [
+    "Belgium",
+    "Germany",
+    "Switzerland",
+    "Luxembourg",
+    "Austria"
+   ],
+   "name": "german",
+   "hier": [
+    "indo-euro",
+    "german"
+   ],
+   "text": ""
+  }
+ },
+ "hier": {
+  "indo-euro": {
+   "irish": "10",
+   "serbian": "7",
+   "icelandic": "0",
+   "latvian": "35",
+   "norweigan": "9",
+   "danish": "24",
+   "croatian": "15",
+   "swedish": "18",
+   "kurdish": "29",
+   "hungarian": "19",
+   "slovak": "26",
+   "albanian": "5",
+   "chech": "34",
+   "romanian": "20",
+   "luxembourgish": "31",
+   "macedonian": "4",
+   "gagauz": "30",
+   "spanish": "33",
+   "montenegrin": "16",
+   "azerbaijani": "41",
+   "finnish": "17",
+   "armenian": "27",
+   "turkish": "6",
+   "german": "1",
+   "bulgarian": "38",
+   "dutch": "2",
+   "russian": "8",
+   "lithuanian": "13",
+   "belarussian": "36",
+   "french": "3",
+   "assyrian": "28",
+   "ukranian": "25",
+   "greek": "12",
+   "romansh": "23",
+   "bosnian": "14",
+   "slovenian": "32",
+   "slovence": "21",
+   "italian": "22",
+   "english": "11",
+   "frisian": "39",
+   "estonian": "37",
+   "polish": "40"
+  }
+ }
+}
